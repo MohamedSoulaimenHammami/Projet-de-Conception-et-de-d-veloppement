@@ -1,0 +1,120 @@
+exclamations	How quickly he understands!
+exclamations	Darling, how I love you.
+exclamations	Hey! What a brilliant idea that is!
+exclamations	Oh, how I wish I were there now.
+exclamations	Oh Granny, what big teeth you have!
+exclamations	Wow! What a cool car you've got!
+interrogative	How are you today?
+interrogative	Who is the best shortstop in the Major Leagues?
+interrogative	To whom shall I give the test results?
+interrogative	Whose socks are these?
+exclamations	What a cute puppy!
+exclamations	What an ugly bug!
+exclamations	What a happy ending!
+exclamations	How bright they've grown in the sunlight!
+exclamations	How well he listens!
+declarative	Marie loves the beach, yet she hates sand.
+declarative	She plays the piano, and he sings along.
+declarative	She had to make the next flight; she quickly packed her bag.
+declarative	The house has new windows; however, the roof still leaks.
+declarative	It had rained for days; the town was flooded.
+declarative	She leaves for college tomorrow morning; the house is going to feel empty without her.
+declarative	The weather is warm and sunny; a perfect day for a picnic.
+declarative	She wears red nail polish.
+declarative	The room smells clean.
+declarative	My family is driving to the beach for the long weekend and I am meeting them there.
+declarative	As the airplane climbed I saw the ocean.
+declarative	She is my new friend.
+exclamations	How slow they crawl!
+exclamations	How fast you ran!
+exclamations	That birthday cake was so good!
+exclamations	Sheldon's gift was so amazing!
+exclamations	Eugh, that bug is so ugly!
+exclamations	I’m so mad right now!
+exclamations	He's such a kind soul!
+exclamations	That's such a gorgeous ring!
+exclamations	Your puppy is such a cutie!
+interrogative	How often you go to a bar?
+interrogative	How many times do you smoke?
+interrogative	Does he know that I am here?
+interrogative	Does she love you as the way you do?
+interrogative	Does he care about us?
+interrogative	Why did he leave us then?
+interrogative	Who is that man seating in the corner?
+interrogative	How on earth did you think about me in that way?
+interrogative	Will you please open the door for me?
+interrogative	Can’t we be friends again?
+interrogative	Why haven’t you completed your homework?
+interrogative	Don’t you know who she is?
+exclamations	I got the concert tickets!
+interrogative	What is the right way to iron a shirt?Greener lifestyles have become popular; the following are to mention just some: energy-efficient lights, new climate sustainable cars, the use of wind and solar power.
+interrogative	When are the best days to go to the mall to bring some things new for my grandmother?
+interrogative	Where is your new cat?
+declarative	Any time a relatively long toxin is introduced to our environment, it contributes to environmental contamination.
+declarative	The dog chased the boy.
+declarative	As a result of the environmental pollution that the world needs to cope with, global warming, which had become a significant problem, in Antarctica the melting icebergs culminated in rising sea levels.
+declarative	Lucy is sick; therefore, she is not at school today.
+interrogative	do you really think that if i helped you , you will servive?
+interrogative	if pollution is affecting our enviroment, so how can we find a sollution for that ?
+interrogative	if we dont move quickly , how we will get there in time?
+declarative	The grass is green after the rain.
+declarative	She loves the mountains; he hates the long drive.
+declarative	My new dress is black and white.
+declarative	My brother loves to run, but my sister prefers to walk.
+declarative	The baby is hungry, but she does not seem interested in drinking her bottle of milk.
+declarative	In response to these disasters, the different countries in the world are taking every possible action.
+declarative	The teacher is going on a well-earned vacation.
+declarative	Greener lifestyles have become popular; the following are to mention just some: energy-efficient lights, new climate sustainable cars, the use of wind and solar power.
+interrogative	Why is the sky blue?
+interrogative	Whom did you see yesterday?
+interrogative	Why are you not interested?
+interrogative	Whose pants are these?
+interrogative	How can we survive if the climate becomes polluted?
+interrogative	how can social media can affect people lives?
+interrogative	Why didn’t you go to school?
+interrogative	Who is coming to the play?
+interrogative	When do you intend to move here?
+interrogative	How kind of school do you want to study at?
+exclamations	Happy birthday, Amy!
+exclamations	Thank you, Sheldon!
+exclamations	I hate you!
+exclamations	Ice cream sundaes are my favorite!
+exclamations	Wow, I really love you!
+exclamations	Fantastic, let's go!
+exclamations	What a lovely bouquet of flowers!
+exclamations	You’re such a liar!
+interrogative	When are you going to turn in your writing assignment?
+interrogative	Do you know what the weather will be tomorrow?
+exclamations	It is too dangerous to climb that mountain!
+exclamations	I got an A on my book report!
+interrogative	Who knows the answers to these questions?
+exclamations	What a mess you've made!
+exclamations	What a handsome man he is!
+exclamations	What an idiot I've been.
+exclamations	How strange it was!
+declarative	She is my new friend.
+declarative	Any time a relatively long toxin is introduced to our environment, it contributes to environmental contamination.
+declarative	The dog chased the boy.
+declarative	As a result of the environmental pollution that the world needs to cope with, global warming, which had become a significant problem, in Antarctica the melting icebergs culminated in rising sea levels.
+declarative	Lucy is sick; therefore, she is not at school today.
+declarative	The grass is green after the rain.
+declarative	She loves the mountains; he hates the long drive.
+declarative	My new dress is black and white.
+declarative	My brother loves to run, but my sister prefers to walk.
+declarative	The baby is hungry, but she does not seem interested in drinking her bottle of milk.
+declarative	Though the light and nuclear pollutions are hard to realize, these are equally harmful.
+declarative	The environmental pollution, directly and indirectly, affects the lives of humans and other species.
+declarative	These living beings co-existed on the earth with human from centuries.
+declarative	Carbon and dust particles string up with the air in the form of smog, damaging respiratory system, haze, and smoke. 
+declarative	These are caused by the emission of industrial and manufacturing units by burning of fossil fuels, vehicle combustion of carbon fumes.
+declarative	Moreover, these factors affect the immune system of birds which become a carrier of viruses and infections.
+declarative	Human’s organic and chemical both waste harm the land and soil with its decomposition. Also, it introduces some chemical in the soil and water.
+declarative	Water gets contaminated easily with any pollutant whether it is human waste or chemical discharge from factories.
+declarative	Also, we use this water for irrigation of crops and drinking.
+declarative	Because of contaminated soil and water, the crop or agricultural produce also get toxic.
+declarative	Climate change is also a cause of environmental pollution. Also, it affects the physical and biological components of the ecosystem.
+declarative	Social media is a tool that is becoming quite popular these days because of its user-friendly features.
+declarative	Social media platforms like Facebook, Instagram, Twitter and more are giving people a chance to connect with each other across distances.
+declarative	In other words, the whole world is at our fingertips all thanks to social media.
+declarative	All this makes you wonder that something so powerful and with such a massive reach cannot be all good. 
+declarative	Subsequently, different people have different opinions on this debatable topic.
